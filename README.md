@@ -13,9 +13,6 @@ Exercises are grouped into **concept** exercises which teach the [Python syllabu
 Concept exercises are constrained to a small set of language or syntax features.
 Practice exercises are open-ended, and can be used to practice concepts learned, try out new techniques, and _play_. These two exercise groupings can be found in the track [config.json][config-json], and under the `python/exercises` directory.
 
-<br>
-<br>
-
 ## Python Software and Documentation
 
 **Copyright © 2001-2025 Python Software Foundation. All rights reserved.**
@@ -25,6 +22,10 @@ Python software and documentation are licensed under the [PSF License Agreement]
 Starting with `Python 3.8.6`, examples, recipes, and other code in the Python documentation are dual licensed under the [PSF License Agreement][psf-license] and the [Zero-Clause BSD license][zero-clause-bsd].
 
 Some software incorporated into Python is under different licenses. The licenses are listed with code falling under that license. See [Licenses and Acknowledgements for Incorporated Software](https://docs.python.org/3/license.html#otherlicenses) for an incomplete list of these licenses.
+
+## Intructions
+
+Complete exercises:
 
 <br>
 
